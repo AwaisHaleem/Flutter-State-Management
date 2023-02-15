@@ -41,7 +41,7 @@ class _HomePageState extends State<HomePage> {
           final api = ApiProvider.of(context).api;
           final dateTime = await api.getDateTime();
           setState(() {
-            _textKey = ValueKey(dateTime);
+            _textKey = ValueKey(dateTime); 
           });
         },
         child: SizedBox.expand(
