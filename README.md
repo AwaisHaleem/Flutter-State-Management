@@ -51,5 +51,31 @@ https://user-images.githubusercontent.com/67065727/224963452-4b895c91-53fb-46f7-
 https://user-images.githubusercontent.com/67065727/224963705-840c3112-84c7-4b19-af96-5d123d23f396.mov
 
 
+## [Flutter Hooks](https://github.com/AwaisHaleem/Flutter-State-Management/tree/main/flutter_hooks)
+In this project we explore a dozen of Hooks and made eigh examples. Here is the list of expamles and hooks that are used in that examples.
+
+#### [First Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/first.dart)
+<b>Hooks:</b> useStream
+
+#### [Second Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/second.dart)
+<b>Hooks:</b> useState, useEffect
+
+#### [Third Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/three.dart)
+<b>Hooks:</b> useMemoized, useFuture
+
+#### [Fourth Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/fourth.dart)
+<b>Hooks:</b> useMemoized, useListenable
+
+#### [Fifth Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/fifth.dart)
+<b>Hooks:</b> useAnimationController, useScrollController
+
+#### [Sixth Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/sixth.dart)
+<b>Hooks:</b> useStreamController
+
+#### [Seventh Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/seventh.dart)
+<b>Hooks:</b> useReducer
+
+#### [Eight Example](https://github.com/AwaisHaleem/Flutter-State-Management/blob/main/flutter_hooks/lib/examples/eighth.dart)
+<b>Hooks:</b> useAppLifecycleState
 
 
